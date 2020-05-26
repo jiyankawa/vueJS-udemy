@@ -108,18 +108,6 @@ new Vue({
                 text: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.',
                 name: 'Rhonda Barnes',
                 job: 'UI/UX Designer'
-            }, {
-                text: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.',
-                name: 'Isabel Laurens',
-                job: 'UI/UX Designer'
-            }, {
-                text: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.',
-                name: 'Isabelle Laurens',
-                job: 'UI/UX Designer'
-            }, {
-                text: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.',
-                name: 'Isabel Carré-Laurens',
-                job: 'UI/UX Designer'
             }]
         }
 
